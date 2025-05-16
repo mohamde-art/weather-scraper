@@ -20,11 +20,12 @@ A Python script that scrapes weather data (city and temperature) from [AccuWeath
   pip install requests beautifulsoup4
 
 3.Run the script:
-
+ ```bash
   python weather_scraper.py
   
 4.📂 Output Example:
 
+ ```bash
   City,Temperature
   Doha,34°C
 
