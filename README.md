@@ -15,16 +15,19 @@ A Python script that scrapes weather data (city and temperature) from [AccuWeath
    ```bash
    git clone https://github.com/mohamde-art/weather-scraper.git
    cd weather-scraper
-   
+
 2.Install the required packages:
+
    ```bash
    pip install requests beautifulsoup4
 
 3.Run the script:
+
    ```bash
    python weather_scraper.py
   
-4.📂 Output Example:
+  4.📂 Output Example:
+
    ```bash
    City,Temperature
    Doha,34°C
